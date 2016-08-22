@@ -70,3 +70,7 @@ target/
 
 *.sqlite3
 .direnv/
+
+.envrc
+todomvc/.DS_Store
+.DS_Store
